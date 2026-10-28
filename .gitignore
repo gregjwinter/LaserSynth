@@ -1,0 +1,35 @@
+
+# Max project - LaserSynth
+# ------------------------
+
+# Max deleted items / recovery folder
+_DeletedItems/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor temporary files
+*.swp
+*.swo
+*~
+*.tmp
+*.bak
+
+# Python cache (if used for utilities)
+__pycache__/
+*.pyc
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# VS Code local workspace settings
+.vscode/
+
+# Git tracks Max project files, patchers,
+# JavaScript, GenExpr, and project data.
+# Media and externals will be reviewed
+# before the initial commit.

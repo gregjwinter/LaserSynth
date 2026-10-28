@@ -1,0 +1,9 @@
+white, 1;
+cyan, 78;
+magenta, 95;
+red, 72;
+blue, 41;
+yellow, 74;
+green, 87;
+black, 67;
+off, 0;
